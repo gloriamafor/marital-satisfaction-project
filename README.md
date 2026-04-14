@@ -181,10 +181,8 @@ These visuals helped show that:
 ---
 
 ## Repository Structure
-
-```bash
-.
 ├── marital-project.ipynb
 ├── README.md
-└── blog/
-    └── [marital-satisfaction-blog.html](https://gloriamafor.com/projects/maritalproject/marital-satisfaction-blog.html)
+└── Martial satifaction_Data.csv
+
+Access my blog here: [marital-satisfaction-blog.html](https://gloriamafor.com/projects/maritalproject/marital-satisfaction-blog.html)
