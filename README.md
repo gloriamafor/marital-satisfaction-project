@@ -164,7 +164,6 @@ The GLOBE-based cultural variables contributed somewhat, but they were not among
 Religion had low overall feature importance compared to relationship-quality variables, although some group-level differences in average satisfaction existed.
 
 ---
-
 ## Visual Highlights
 
 This project includes visualizations such as:
@@ -181,8 +180,8 @@ These visuals helped show that:
 ---
 
 ## Repository Structure
-├── marital-project.ipynb
-├── README.md
-└── Martial satifaction_Data.csv
+- marital-project.ipynb
+- README.md
+- Martial satifaction_Data.csv
 
 Access my blog here: [marital-satisfaction-blog.html](https://gloriamafor.com/projects/maritalproject/marital-satisfaction-blog.html)
